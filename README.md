@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=WELCOME&fontAlign=50&fontAlignY=40&color=0:00C9FF,100:9200FF&fontColor=ffffff&fontSize=65&animation=fadeIn"/>
 
-# ✨ YOUR NAME ✨
+# ✨ 방재원 ✨
 
 ### 🚀 Full Stack Developer | AI Engineer | Creative Builder
 
