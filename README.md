@@ -4,7 +4,7 @@
 
 # ✨ 방재원 ✨
 
-### 🚀 Full Stack Developer | AI Engineer | Creative Builder
+### 🚀 게임 개발자 희망생 | Creative Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Build.+Create.+Innovate.;AI+%2B+Backend+%2B+Frontend;Always+Learning+Something+New" />
 
@@ -17,11 +17,8 @@
 <div align="center">
 
 🌍 Based in South Korea 🇰🇷  
-💼 Full Stack Developer  
-🤖 Interested in AI & Automation  
-☁️ Exploring Cloud Architecture  
-📚 Currently Learning LLM • Docker • Kubernetes  
-🎮 Gaming • Music • Fitness • Coding at 3AM  
+💼 Unity Developer  
+🎮 Gaming • Music 
 
 </div>
 
@@ -31,25 +28,10 @@
 
 <div align="center">
 
-### 🧠 Languages
+### 🧠 Languages and Game Engine
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+<img src="https://skillicons.dev/icons?i=cs,unity" />
 
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" />
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,fastapi" />
-
-### ☁️ DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,linux" />
-
-### 🛢 Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 
 </div>
 
@@ -61,10 +43,7 @@
 
 | 🚀 Project | 🔥 Description | ⚡ Tech |
 |---|---|---|
-| AI Platform | AI 기반 자동화 서비스 | Next.js • FastAPI |
-| Dashboard App | 데이터 분석 대시보드 | React • D3.js |
-| Game Service | 실시간 멀티 게임 | Node.js • Socket.io |
-| Discord Bot | 자동화 봇 시스템 | Python • Discord.py |
+| 유니카 프로젝트 | 파이썬 게임을 유니티로 재현 | Unity  |
 
 </div>
 
